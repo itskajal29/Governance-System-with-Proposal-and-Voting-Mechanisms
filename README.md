@@ -22,7 +22,7 @@ To create a foundational governance framework for DAOs or decentralized communit
 - Off-chain vote signaling with on-chain commitment
 - Proposal queuing and scheduling logic
 - Delegation of voting power
-- DAO treasury integration for automatic execution
+- DAO treasury integration for automatic fund execution
 
 ## 📜 Deployment
 
