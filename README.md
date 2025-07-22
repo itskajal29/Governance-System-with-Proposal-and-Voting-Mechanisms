@@ -10,7 +10,7 @@ To create a foundational governance framework for DAOs or decentralized communit
 
 ## 🔑 Key Features                     
 
-- Owner creates proposals with a deadline
+- Owner creates proposals with a specified deadline
 - Community votes YES/NO within the voting window
 - Votes are tracked per user (one vote per address)
 - After voting ends, proposals can be executed
