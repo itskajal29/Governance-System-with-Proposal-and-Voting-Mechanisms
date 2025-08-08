@@ -6,7 +6,7 @@ A decentralized governance system allowing stakeholders to propose and vote on c
 
 ## 🌍 Project Vision    
 
-To create a foundational governance framework for DAOs or decentralized communities where decisions are made via voting, and proposal outcomes are recorded immutably.
+To create a foundational governance framework for DAOs or decentralized communities where decisions are made via voting, and proposal outcomes are recorded immutably. 
 
 ## 🔑 Key Features                     
 
