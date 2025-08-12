@@ -1,4 +1,4 @@
-# Governance System with Proposal and Voting Mechanisms     
+⁸# Governance System with Proposal and Voting Mechanisms     
 
 ## 🧠 Project Description               
 
@@ -11,7 +11,7 @@ To create a foundational governance framework for DAOs or decentralized communit
 ## 🔑 Key Features                     
 
 - Owner can creates proposals with a specified deadline 
-- Community members can votes YES/NO within a limited voting window
+- Community members can vote YES/NO within a limited voting window
 - Votes are tracked per user (one vote per address)
 - After voting ends, proposals can be executed
 - Results are transparently emitted via events
