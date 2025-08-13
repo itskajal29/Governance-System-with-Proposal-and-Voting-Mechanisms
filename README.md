@@ -1,4 +1,4 @@
-⁸# Governance System with Proposal and Voting Mechanisms     
+# Governance System with Proposal and Voting Mechanisms     
 
 ## 🧠 Project Description               
 
