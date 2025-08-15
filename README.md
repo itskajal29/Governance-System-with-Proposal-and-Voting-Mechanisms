@@ -16,7 +16,7 @@ To create a foundational governance framework for DAOs or decentralized communit
 - After voting ends, proposals can be executed
 - Results are transparently emitted via events
 
-## 🚀 Future Scope
+## 🚀 Future Scope 
 
 - Token-weighted voting (based on governance tokens)
 - Off-chain vote signaling with on-chain commitment
