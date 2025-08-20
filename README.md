@@ -13,7 +13,7 @@ To create a foundational governance framework for DAOs or decentralized communit
 - Owner can creates proposals with a specified deadline 
 - Community members can vote YES/NO within a limited voting window
 - Votes are tracked per user (one vote per address)
-- After voting ends, proposals can be executed
+- After voting period ends, proposals can be executed
 - Results are transparently emitted via events
 
 ## 🚀 Future Scope 
