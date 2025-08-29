@@ -20,7 +20,7 @@ To create a foundational governance framework for DAOs or decentralized communit
 
 - Token-weighted voting (based on governance tokens)
 - Off-chain vote signaling with on-chain commitment
-- Proposal queuing and scheduling logic
+- Proposal queuing and scheduling logic for automated execution 
 - Delegation of voting power to trusted representatives  
 - DAO treasury integration for automatic fund execution post - approval 
 
