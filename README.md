@@ -1,6 +1,6 @@
 # Governance System with Proposal and Voting Mechanisms       
 
-## 🧠 Project Description                 
+## 🧠 Project Description                  
 
 A decentralized governance system  allowing stakeholders to propose and vote on changes or actions. It ensures transparency, community participation, and democratic decision-making. 
 
