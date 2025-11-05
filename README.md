@@ -34,3 +34,4 @@ npx hardhat run scripts/deploy.js --network <your_network>
 
 ## Contract details
 0xa974dF20240CAca31814C61242c246472C4BA1Bf![alt text](image.png)
+ 
