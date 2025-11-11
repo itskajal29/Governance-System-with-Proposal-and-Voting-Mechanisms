@@ -4,7 +4,7 @@
 
 A decentralized governance system  allowing stakeholders to propose and vote on changes or actions. It ensures transparency, community participation, and democratic decision-making. 
 
-## 🌍 Project Vision     
+## 🌍 Project Vision      
 
 To create a foundational governance framework for DAOs or decentralized communities where decisions are made via voting, and proposal outcomes are recorded immutably. 
 
