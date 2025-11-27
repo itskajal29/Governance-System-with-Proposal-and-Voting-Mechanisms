@@ -12,7 +12,7 @@ To create a foundational governance framework for DAOs or decentralized communit
 
 -only the contract Owner can creates proposals with a specified deadline 
 - Community members can vote YES/NO within a limited voting window
--Each users is allowed only one vote. Votes are tracked per user (one vote per address)
+-Each users is allowed only one vote. Votes are tracked per user (one vote per address) 
 - After the voting period ends, proposals can be executed based on the outcome.
 - Results are emitted transparently emitted via events  
 
